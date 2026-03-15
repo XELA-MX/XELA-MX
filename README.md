@@ -1,6 +1,5 @@
 # Hello there, I am Emilio Peralta 👋
-<a href="TU_LINK_DE_LINKEDIN" target="_blank"><img align="right" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" /></a>
-<a href="https://instagram.com/nuggy_who" target="_blank"><img align="right" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Instagram" height="30" width="40"/></a>
+<a href="www.linkedin.com/in/eperaltaaa" target="_blank"><img align="right" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" /></a>
 <a href="https://github.com/xela-mx" target="_blank"><img align="right" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="GitHub" height="30" width="40"/></a>
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&duration=2501&pause=500&color=11F785&center=false&vCenter=false&repeat=true&random=false&width=435&lines=%3C%2F+hi+!+welcome+to+my+github+profile+%2F%3E;console.log(%22im+a+software+developer%22))](https://git.io/typing-svg)
